@@ -1,0 +1,3 @@
+externalId: 'create_asset_hierarchy'
+interval: '50 0 * * *' #minutes hour day month year project number midnight(12) all day all month all year
+isPaused: false
